@@ -1,30 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;Systems+Programmer;Building+AI+Voice+Agents;Learning+High+Frequency+Trading;Always+Learning+🚀" />
+  <!-- Banner -->
 </p>
-# Hi there 👋 I'm Anand Trambadiya
 
-### 🚀 AI Engineer | Backend Developer | Systems Programmer
+<h1 align="center">Hi 👋 I'm Anand Trambadiya</h1>
 
-🎓 B.Tech CSE @ Atmiya University (CGPA: 9.5)
-🎓 BS in Data Science @ IIT Madras
-🤖 Passionate about AI, Backend Systems, Distributed Applications, and High-Performance Computing
-
----
-
-### 🌱 Currently Working On
-
-* ⚡ Learning Modern C++ for High Frequency Trading
-* 🤖 Building AI Voice Agents
-* 📈 Exploring Low-Latency System Design
-* 🛠️ Building Scalable Backend Applications
+<p align="center">
+AI Engineer • Backend Developer • Systems Programmer
+</p>
 
 ---
 
-### 💬 Ask Me About
+## 🚀 About Me
 
-* Python
-* C++
-* Flask
-* AI & LLM Applications
-* Backend Development
-* IoT Projects
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,flask,react,vue,django,mysql,sqlite,git,github,docker,linux,vscode&perline=8" />
+</p>
+
+## 🌱 Currently Learning
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anandtrambadiya&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandtrambadiya&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=anandtrambadiya&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandtrambadiya&theme=github-compact)](https://github.com/anandtrambadiya)
+
+## 🏆 Achievements
+
+---
+
+## 🤝 Connect with Me
