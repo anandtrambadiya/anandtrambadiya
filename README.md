@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;Systems+Programmer;Building+AI+Voice+Agents;Learning+High+Frequency+Trading;Always+Learning+🚀" />
+</p>
+# Hi there 👋 I'm Anand Trambadiya
 
-<!--
-**anandtrambadiya/anandtrambadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI Engineer | Backend Developer | Systems Programmer
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE @ Atmiya University (CGPA: 9.5)
+🎓 BS in Data Science @ IIT Madras
+🤖 Passionate about AI, Backend Systems, Distributed Applications, and High-Performance Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Working On
+
+* ⚡ Learning Modern C++ for High Frequency Trading
+* 🤖 Building AI Voice Agents
+* 📈 Exploring Low-Latency System Design
+* 🛠️ Building Scalable Backend Applications
+
+---
+
+### 💬 Ask Me About
+
+* Python
+* C++
+* Flask
+* AI & LLM Applications
+* Backend Development
+* IoT Projects
