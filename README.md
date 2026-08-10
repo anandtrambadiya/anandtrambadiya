@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Smart+Systems+%26+LLMs...;Flask+%2B+VueJS+%2B+Python+%2B+C%2B%2B;Rare+Commits%2C+Heavy+Impact+🚀;404%3A+Predictable+Commit+Schedule+Not+Found" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Smart+Systems+%26+LLMs...;Flask+%2B+VueJS+%2B+Python+%2B+C%2B%2B;Rare+Commits%2C+Heavy+Impact+%F0%9F%9A%80;404%3A+Predictable+Commit+Schedule+Not+Found" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +11,9 @@
     <img src="https://img.shields.io/github/followers/anandtrambadiya?style=for-the-badge&logo=github&color=00F2FE&labelColor=0d1117" alt="Followers" />
   </a>
   <a href="https://github.com/anandtrambadiya?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/anandtrambadiya?style=for-the-badge&logo=git&color=4FACFE&labelColor=0d1117" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repos-Public-4FACFE?style=for-the-badge&logo=git&labelColor=0d1117" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Mode-Night%20Owl%20🦉-purple?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Mode-Night%20Owl%20%F0%9F%A6%89-purple?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
