@@ -1,30 +1,30 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Anand%20Trambadiya&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Systems%20Builder&descAlignY=62&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Smart+Systems+%26+LLMs...;Flask+%2B+VueJS+%2B+Python+%2B+C%2B%2B;Rare+Commits%2C+Heavy+Impact+%F0%9F%9A%80;404%3A+Predictable+Commit+Schedule+Not+Found" alt="Typing SVG" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Anand%20Trambadiya&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Backend%20%26%20Systems%20Developer&descAlignY=65&descSize=16&fontColor=58a6ff" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <a href="https://github.com/anandtrambadiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/anandtrambadiya?style=for-the-badge&logo=github&color=00F2FE&labelColor=0d1117" alt="Followers" />
+  <br />
+
+  <!-- Fixed Typing Animation (Shorter text to prevent line-wrapping/cutting off) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=40&lines=Python+%7C+Flask+%7C+Vue.js+%7C+C%2B%2B;Building+AI+Agents+%26+LLMs;Quality+Over+Quantity+Commits" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/anandtrambadiya?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public-4FACFE?style=for-the-badge&logo=git&labelColor=0d1117" alt="Repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/Mode-Night%20Owl%20%F0%9F%A6%89-purple?style=for-the-badge&labelColor=0d1117" />
-</p>
+
+</div>
 
 ---
 
-## ⚡ About Me
+### ⚡ Operational Overview
 
-```javascript
-const anand = {
-    code: ["Python", "C++", "JavaScript", "Java"],
-    architecture: ["Flask", "Vue.js", "Django", "Docker", "Redis", "Celery"],
-    currentFocus: "LLMs, Intelligent Agents & Systems Programming",
-    commitStyle: "Sporadic bursts of hyper-focused energy ⚡",
-    quote: "It's not inconsistent coding; it's batch processing."
-};
+```json
+{
+  "developer": "Anand Trambadiya",
+  "tech_stack": {
+    "languages": ["Python", "C++", "JavaScript", "C", "Java"],
+    "backend_frameworks": ["Flask", "Django"],
+    "frontend": ["Vue.js", "React"],
+    "databases_async": ["MySQL", "SQLite", "Redis", "Celery"],
+    "tools": ["Docker", "Linux", "Git"]
+  },
+  "status": "Batch processing commits in intense focus mode ⚡"
+}
