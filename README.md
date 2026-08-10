@@ -1,47 +1,32 @@
 <p align="center">
-  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Anand%20Trambadiya&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Systems%20Builder&descAlignY=62&descSize=18" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋 I'm Anand Trambadiya</h1>
 
 <p align="center">
-AI Engineer • Backend Developer • Systems Programmer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Smart+Systems+%26+LLMs...;Flask+%2B+VueJS+%2B+Python+%2B+C%2B%2B;Rare+Commits%2C+Heavy+Impact+🚀;404%3A+Predictable+Commit+Schedule+Not+Found" alt="Typing SVG" />
+  </a>
 </p>
-
----
-
-## 🚀 About Me
-
----
-
-## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,flask,react,vue,django,mysql,sqlite,git,github,docker,linux,vscode&perline=8" />
+  <a href="https://github.com/anandtrambadiya?tab=followers">
+    <img src="https://img.shields.io/github/followers/anandtrambadiya?style=for-the-badge&logo=github&color=00F2FE&labelColor=0d1117" alt="Followers" />
+  </a>
+  <a href="https://github.com/anandtrambadiya?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/anandtrambadiya?style=for-the-badge&logo=git&color=4FACFE&labelColor=0d1117" alt="Repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/Mode-Night%20Owl%20🦉-purple?style=for-the-badge&labelColor=0d1117" />
 </p>
-
-## 🌱 Currently Learning
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ About Me
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anandtrambadiya&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandtrambadiya&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anandtrambadiya&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandtrambadiya&theme=github-compact)](https://github.com/anandtrambadiya)
-
-## 🏆 Achievements
-
----
-
-## 🤝 Connect with Me
+```javascript
+const anand = {
+    code: ["Python", "C++", "JavaScript", "Java"],
+    architecture: ["Flask", "Vue.js", "Django", "Docker", "Redis", "Celery"],
+    currentFocus: "LLMs, Intelligent Agents & Systems Programming",
+    commitStyle: "Sporadic bursts of hyper-focused energy ⚡",
+    quote: "It's not inconsistent coding; it's batch processing."
+};
