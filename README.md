@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Anand Trambadiya
+# Anand Trambadiya
 
-### AI Engineer • Backend Developer • Systems Builder
-
-`Python` • `C++` • `Flask` • `Vue.js` • `Redis` • `Celery` • `Docker`
-
----
+`AI Engineer` • `Backend Developer` • `Systems Builder`
 
 </div>
+
+---
 
 ### ⚡ System Status
 
